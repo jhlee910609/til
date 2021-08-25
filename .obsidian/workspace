@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "a4ac0b2ed2071686",
+    "type": "split",
+    "children": [
+      {
+        "id": "420d426ba199648b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web/2021-08-25.md",
+            "mode": "source"
+          }
+        },
+        "group": "57d1171d1540f14a"
+      },
+      {
+        "id": "5e5738300763f125",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web/2021-08-25.md",
+            "mode": "preview"
+          }
+        },
+        "group": "57d1171d1540f14a"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d3cdaa080dd3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9af16f3952e1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d65fd73e141c31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73a375d005505002",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a58516bde6c91255",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf76998221ca982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af9543f8be30f28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web/2021-08-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "420d426ba199648b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "javascript/실행 컨텍스트(Execution context).md"
+  ]
+}
